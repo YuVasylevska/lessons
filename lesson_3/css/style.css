@@ -1,0 +1,33 @@
+
+img{
+   width: 600px;
+   height: 400px;
+}
+
+h2{
+   color: #ff0000;
+}
+
+.text p{
+   font-weight: bold;
+}
+
+#ingredients{
+   color: #3502ff;
+}
+
+ul{
+   color: #30fe02;
+}
+
+.some-text{
+   color: #ff02d9;
+}
+
+span{
+   color: #3502ff;
+}
+
+.text.some-text{
+   color: #02ffff;
+}
