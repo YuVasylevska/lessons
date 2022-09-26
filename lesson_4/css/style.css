@@ -1,0 +1,67 @@
+body {
+   font-family: "Roboto";
+   color: #9932cc;
+}
+
+.roboto-regular {
+   color: blue;
+}
+
+.roboto-medium {
+   color: #0e7aa1;
+   font-weight: 500;
+}
+
+.roboto-bold {
+   color: #00ffff;
+   font-weight: 700;
+}
+
+.larsseit-text {
+   font-family: "Larsseit";
+}
+
+.larsseit-regular {
+   color: #a52a2a;
+}
+
+.larsseit-medium {
+   color: #a52a6e;
+   font-weight: 500;
+}
+
+.larsseit-bold {
+   color: #cb482d;
+   font-weight: 700;
+}
+
+.lato-text {
+   font-family: "Lato"; 
+}
+
+.lato-regular {
+   color: #cb9e2d;
+}
+
+.lato-bold {
+   color: #c3cb2d;
+   font-weight: 700;
+}
+
+.lato-black {
+   color: #f6fb6a;
+   font-weight: 900;
+}
+
+h1 {
+   font-size: 30px;
+}
+
+h2 {
+   font-size: 20px;
+}
+
+img{
+   width: 600px;
+   height: 400px;
+}
