@@ -1,0 +1,57 @@
+body {
+   font-family: "Roboto", sans-serif;
+   background-color: lightgrey;
+}
+
+header {
+   color: #808080;
+   text-shadow: 1px 1px 1px #000000;
+}
+
+.wrapper {
+   max-width: 1260px;
+   margin: 0 auto;
+}
+
+.animals {
+   padding: 0 10px;
+}
+
+.animals>img {
+   width: 100%;
+}
+
+h1,
+h3 {
+   font-family: "Larsseit" , sans-serif;
+   text-decoration: underline;
+   margin: 20px 0px;
+   font-size: 24px;
+   letter-spacing: 3px;
+   color: #808080;
+   text-shadow: 1px 1px 1px #000000;
+}
+
+ul li {
+   background: url(../img/svg/Circle_icon-icons.com_52186.svg) 0 /10px 10px no-repeat;
+   padding-left: 20px;
+}
+
+li {
+   margin: 6px 0 6px 0;
+}
+
+p {
+   margin: 6px 0;
+}
+
+a {
+   color: #808080;
+   text-transform: capitalize;
+}
+
+footer {
+   text-align: center;
+   color: #808080;
+   text-shadow: 1px 1px 1px #000000;
+}
