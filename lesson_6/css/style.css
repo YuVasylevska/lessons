@@ -1,0 +1,159 @@
+body {
+   font-family: "Lato", sans-serif;
+   /* background-color: #E5E5E5; */
+}
+
+.wrapper {
+   max-width: 810px;
+   margin: 0 auto;
+}
+
+.text-black {
+   color: #1E212C;
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 59.8px;
+   margin-bottom: 50px;
+}
+
+img {
+   width: 100%;
+   border-radius: 4px;
+}
+
+.main-text {
+   margin-top: 24px;
+}
+
+.text-bold {
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+   margin-top: 60px;
+}
+
+.text-up{
+   margin: 48px 0;
+   position: relative;
+   padding-left: 60px;
+}
+
+.list{
+   margin: 24px 0 0 0;
+}
+
+li {
+   margin-top: 4px;
+   padding-left: 16px;
+   line-height: 26px;
+}
+
+.text-regular {
+   line-height: 160%;
+   color: #424551;
+}
+
+/* ______________________________________________ */
+
+.max-min {
+   margin-top: 50px;
+   min-width: 300px;
+   max-width: 500px;
+   background-color: beige;
+}
+
+.overflow-scroll {
+   margin-top: 50px;
+   max-height: 80px;
+   overflow: scroll;
+}
+
+.overflow-auto {
+   margin-top: 50px;
+   max-height: 80px;
+   overflow: auto;
+}
+
+.block-display {
+   margin-top: 50px;
+}
+
+.inline-display {
+   margin-top: 50px;
+   display: block;
+}
+
+.block-border {
+   margin: 50px 0;
+   border-top: 5px solid #424551;
+   border-right: 5px dotted #424551;
+   border-bottom: 5px dashed #424551;
+   border-left: none;
+}
+
+.inline-border {
+   border: 5px solid #424551;
+}
+
+.image-border {
+   margin: 50px 0;
+   border: 5px solid #424551;
+   border-radius: 30px;
+}
+
+a {
+   padding: 10px;
+}
+
+.link:focus {
+   outline: 5px solid #ffff00;
+}
+
+.border-radius {
+   margin: 50px 0;
+   padding: 15px;
+   background-color: #ffff00;
+   border-radius: 10px;
+}
+
+.span-br {
+   border-radius: 10px;
+   background-color: #ffff00;
+}
+
+.box-shadow {
+   margin: 50px 0;
+   padding: 20px;
+   background-color: #ffff00;
+   box-shadow: 20px 20px 20px 2px #161602;
+   border-radius: 10px;
+}
+
+.block-opacity {
+   background-color: #ffff00;
+   padding: 20px;
+   opacity: 0.5;
+}
+
+.block-opacity:hover {
+   opacity: 1;
+}
+
+.block-display {
+   background-color: #ffff00;
+   margin: 50px 0;
+   padding: 20px;
+   display: none;
+}
+
+.block-visibility {
+   padding: 20px;
+   visibility: hidden;
+}
+
+footer {
+   text-align: center;
+   color: #424551;
+   padding: 15px;
+}
