@@ -1,2 +1,0 @@
-// rtgg
-// alert('hello')
